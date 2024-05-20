@@ -1,0 +1,25 @@
+body {
+    background-color: hsl(0, 0%, 10%);
+    color: hsl(0, 0%, 100%);
+    font-family: sans-serif;
+    max-width: 90%;
+    margin-inline: auto;
+}
+
+.blog-body {
+    padding: 0 1rem;
+    margin-inline: auto;
+    font-size: 1.05rem;
+}
+
+.blog-list {
+    text-align: center;
+}
+
+a {
+    color: hsl(0, 0%, 100%);
+}
+
+code {
+    color: lime;
+}
